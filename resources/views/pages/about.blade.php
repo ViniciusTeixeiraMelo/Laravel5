@@ -1,4 +1,6 @@
 @extends('main')
+@section('title', '| About')
+
 @section('content')
 <div class="container">
     <div class="row">

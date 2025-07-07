@@ -1,4 +1,6 @@
 @extends('main')
+@section('title', '| HomePage')
+
 @section('content')
     <div class="row">
         <div class="col-md-12">
